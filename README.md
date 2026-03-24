@@ -1,14 +1,25 @@
-# Tourease – Smart Tourism Safety Application
+# Tourease – Tourism Safety App 
 
-# Description
-Tourease is a tourism safety application designed to enhance the travel experience by providing safety features like live location tracking and emergency alerts.
+# Project Overview :
+Tourease is a tourism safety application designed to ensure travelers can explore new places with confidence. The app provides real-time location tracking, emergency alerts, and information about nearby essential services to improve safety during trips.
 
-# Features
-- User Authentication  
-- Live Location Tracking  
-- Emergency Alert System  
-- Nearby Services (Hospitals, Police, Help Centers)  
-- Multi-platform support (Mobile, Web, Desktop)  
+# Problem Statement :
+Travelers often face safety concerns in unfamiliar areas, such as getting lost, encountering emergencies, or not knowing nearby services.
+Tourease solves this by giving users instant access to help and guidance during their trips.
+
+# Features :
+Real-time location tracking
+Emergency alerts (police, hospital, fire)
+Nearby essential services (hotels, restaurants, ATMs)
+Easy-to-use interface for travelers
+Optional: Add offline map support (if implemented)
+
+# Tech Stack :
+Frontend: (e.g., React Native / Flutter / HTML, CSS, JS – adjust as per your project)
+Backend: (e.g., Node.js / Python Flask / Django)
+Database: (e.g., Firebase / MongoDB / MySQL)
+Tools: Git, GitHub, Postman (for API testing)
+
 
 # Application Link
 https://toureaser.netlify.app/
